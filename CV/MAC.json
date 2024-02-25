@@ -223,6 +223,12 @@
       },
       {
         "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Miro",
           "type": "technology"
         }
@@ -294,6 +300,10 @@
       },
       {
         "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
         "type": "technology"
       },
       {
