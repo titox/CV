@@ -1,0 +1,265 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Vte.",
+      "surnames": "Oliver",
+      "title": "Senior UX Designer",
+      "description": "I am a UX / UI Designer with work experience in User Centred Design, User Research, Human Computer Interaction, Frontend Design and Design Systems , and from design studios to corporate multinationals.\n\nI have experience in designing across different platforms and devices. I have been working in agency and in-house role models.\n\nI am confident in understanding users needs, goals and problem analysis, and to communicate solutions through ideas, sketching and prototyping. My aims are continual innovation, improvement, and enjoyment from the perspective of both users and clients.\n\nMy expertise includes:\n- Working at a strategic and conceptual level to design User Experience frameworks\n- Collaborating with Information Architects to devise user journeys and wireframes\n- Working at a production level to produce designs based on a wireframe specification document\n- User testing methodologies\n- Interactive prototyping\n- Figma, Sketch, HTML, CSS",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/21/ca88c467-bd69-4ee3-9185-db04969059c4_tempimagevq9amb.png",
+        "alt": "tempImagevQ9aMB.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJS6udO9o1Yg0R44ELrHKofR0)",
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Alicante (Alacant)"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "What has been the longest career you've ever had?",
+        "fact": "84km in the Pyrenees"
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/titox"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/titox"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "frog",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/25/52a9569b-5276-4b4c-a6e5-55105814da5b_linkedin-photo-4952.linkedin-photo-4952",
+            "alt": "24/02/25/52a9569b-5276-4b4c-a6e5-55105814da5b_linkedin-photo-4952.linkedin-photo-4952"
+          }
+        },
+        "roles": [
+          {
+            "name": "UX Designer",
+            "startDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "Skills: User Experience · User Interface Design"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Capgemini Invent",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/25/01b178b3-8bf8-4454-9d1f-ceec8b430cb7_linkedin-photo-4952.linkedin-photo-4952",
+            "alt": "24/02/25/01b178b3-8bf8-4454-9d1f-ceec8b430cb7_linkedin-photo-4952.linkedin-photo-4952"
+          }
+        },
+        "roles": [
+          {
+            "name": "User Interface and Experience Designer at European Union Intellectual Property Office EUIPO",
+            "startDate": "2021-09-01",
+            "finishDate": "2022-07-31",
+            "challenges": [
+              {
+                "description": "Skills: User-centered Design"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Unisys",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/25/a47c1795-fe92-4424-9826-ca77dd5336f2_linkedin-photo-4952.linkedin-photo-4952",
+            "alt": "24/02/25/a47c1795-fe92-4424-9826-ca77dd5336f2_linkedin-photo-4952.linkedin-photo-4952"
+          }
+        },
+        "roles": [
+          {
+            "name": "User Interface and Experience Designer at European Union Intellectual Property Office EUIPO",
+            "startDate": "2017-04-01",
+            "finishDate": "2021-09-30",
+            "challenges": [
+              {
+                "description": "Skills: InVision · Git · User-centered Design"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universitat d'Alacant",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/25/01267a86-8622-46c7-a902-8c51eedd4968_linkedin-photo-4952.linkedin-photo-4952",
+            "alt": "24/02/25/01267a86-8622-46c7-a902-8c51eedd4968_linkedin-photo-4952.linkedin-photo-4952"
+          }
+        },
+        "roles": [
+          {
+            "name": "Teacher",
+            "startDate": "2010-09-01",
+            "finishDate": "2012-06-30",
+            "challenges": [
+              {
+                "description": "Web Design Teacher at Master Diseño Web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Espira Tecnologías Web",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/25/d79047c5-6490-4e90-9c90-367dff8daa6b_linkedin-photo-4952.linkedin-photo-4952",
+            "alt": "24/02/25/d79047c5-6490-4e90-9c90-367dff8daa6b_linkedin-photo-4952.linkedin-photo-4952"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Designer / Developer",
+            "startDate": "2010-03-01",
+            "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": "Skills: Git · Online Marketing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mosi Mosi Design BCN",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/25/3bc4c681-093e-4cd4-89f2-63016c8127ea_linkedin-photo-4952.linkedin-photo-4952",
+            "alt": "24/02/25/3bc4c681-093e-4cd4-89f2-63016c8127ea_linkedin-photo-4952.linkedin-photo-4952"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Designer",
+            "startDate": "2006-01-01",
+            "finishDate": "2009-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kiu Comunicación",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/25/51f2b293-60ac-4d7e-9911-2c97dbdecb21_linkedin-photo-4952.linkedin-photo-4952",
+            "alt": "24/02/25/51f2b293-60ac-4d7e-9911-2c97dbdecb21_linkedin-photo-4952.linkedin-photo-4952"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Designer",
+            "startDate": "1999-01-01",
+            "finishDate": "2009-01-01",
+            "challenges": [
+              {
+                "description": "Skills: Online Marketing"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster universitario de Diseño de Interacción y Experiencia de Usuario (UX)",
+        "startDate": "2016-10-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/25/3cca5a15-311e-4ca0-bcd3-266d6d143cb9_linkedin-photo-4952.linkedin-photo-4952",
+            "alt": "24/02/25/3cca5a15-311e-4ca0-bcd3-266d6d143cb9_linkedin-photo-4952.linkedin-photo-4952"
+          }
+        },
+        "finishDate": "2017-06-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico en Márketing y Publicidad, Marketing/Marketing Management, General",
+        "startDate": "1991-09-01",
+        "institution": {
+          "name": "Universidad de ESUMA - Escuela Superior de Marketing",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/25/9c098ace-dff7-4c05-8e75-e9c2f429458e_linkedin-photo-4952.linkedin-photo-4952",
+            "alt": "24/02/25/9c098ace-dff7-4c05-8e75-e9c2f429458e_linkedin-photo-4952.linkedin-photo-4952"
+          }
+        },
+        "finishDate": "1994-06-30"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/titox",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/titox",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "titox31@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Product Design (UI/UX)"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I'd like to live in one of the big players of the industry as a UX Designer\n\n",
+    "goodPractices": "Listen to users, research, prototype, iterate and work with developers to deliver the best products"
+  }
+}
