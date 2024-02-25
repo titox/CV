@@ -199,7 +199,31 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Adobe Xd",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Miro",
           "type": "technology"
         }
       }
@@ -259,6 +283,24 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "Figma",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "Miro",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I'd like to live in one of the big players of the industry as a UX Designer\n\n",
     "goodPractices": "Listen to users, research, prototype, iterate and work with developers to deliver the best products"
   }
