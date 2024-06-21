@@ -199,12 +199,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Adobe Xd",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
           "type": "technology"
         }
