@@ -263,6 +263,14 @@
         },
         "finishDate": "1994-06-30"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Ability to receive feedback",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
