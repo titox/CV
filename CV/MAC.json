@@ -236,6 +236,19 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Google UX Design Professional Certificate",
+        "startDate": "2012-05-01",
+        "institution": {
+          "name": "Coursera",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/21/17b048f0-b94c-4581-8279-e5221fd464c9_screenshot-2024-06-2.png",
+            "alt": "Screenshot 2024-06-21 at 21.14.11.png"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Máster universitario de Diseño de Interacción y Experiencia de Usuario (UX)",
