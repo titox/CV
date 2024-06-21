@@ -270,6 +270,12 @@
           "name": "Ability to receive feedback",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Good presentation skills",
+          "type": "practice"
+        }
       }
     ]
   },
