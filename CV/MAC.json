@@ -303,9 +303,6 @@
           "URL": "https://twitter.com/titox",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "titox31@gmail.com"
       ]
     },
     "preferences": {
@@ -313,7 +310,7 @@
         "Product Design (UI/UX)"
       ]
     },
-    "status": "searchingActively"
+    "status": "openToOffers"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
