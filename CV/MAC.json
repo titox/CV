@@ -205,6 +205,12 @@
       },
       {
         "skill": {
+          "name": "ChatGPT",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Figma",
           "type": "technology"
         }
@@ -218,12 +224,6 @@
       {
         "skill": {
           "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Miro",
           "type": "technology"
         }
       }
@@ -324,6 +324,10 @@
         "type": "technology"
       },
       {
+        "name": "ChatGPT",
+        "type": "technology"
+      },
+      {
         "name": "Figma",
         "type": "technology"
       },
@@ -333,10 +337,6 @@
       },
       {
         "name": "JavaScript",
-        "type": "technology"
-      },
-      {
-        "name": "Miro",
         "type": "technology"
       }
     ],
