@@ -231,6 +231,24 @@
     "studies": [
       {
         "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Claude Platform 101",
+        "startDate": "2026-04-01",
+        "institution": {
+          "name": "Anthrophic",
+          "description": "Building on the Claude Platform from the ground up, from chat to APIs",
+          "URL": "https://anthropic.skilljar.com/claude-platform-101"
+        },
+        "finishDate": "2026-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Claude Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": false,
         "name": "Google UX Design Professional Certificate",
         "startDate": "2012-05-01",
