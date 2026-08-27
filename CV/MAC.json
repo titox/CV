@@ -237,7 +237,11 @@
         "institution": {
           "name": "Anthrophic",
           "description": "Building on the Claude Platform from the ground up, from chat to APIs",
-          "URL": "https://anthropic.skilljar.com/claude-platform-101"
+          "URL": "https://anthropic.skilljar.com/claude-platform-101",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/08/27/516961db-a9ae-4799-92f7-1f8fec8d27bb_screenshot-2026-08-2.png",
+            "alt": "Screenshot 2026-08-27 at 13.21.28.png"
+          }
         },
         "finishDate": "2026-06-01",
         "linkedCompetences": [
@@ -268,7 +272,11 @@
         "institution": {
           "name": "Yummy Labx",
           "description": "A sprint built around real startup briefs, guided by mentors, powered by AI workflows",
-          "URL": "https://www.yummy-labs.com/"
+          "URL": "https://www.yummy-labs.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/08/27/d7e1fa91-ad9e-4628-8dc6-267ce60bc228_screenshot-2026-08-2.png",
+            "alt": "Screenshot 2026-08-27 at 13.20.33.png"
+          }
         },
         "linkedCompetences": [
           {
