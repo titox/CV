@@ -33,6 +33,10 @@
         "URL": "https://linkedin.com/in/titox"
       },
       {
+        "type": "github",
+        "URL": "https://github.com/titox"
+      },
+      {
         "type": "twitter",
         "URL": "https://twitter.com/titox"
       }
@@ -345,6 +349,10 @@
         {
           "URL": "https://linkedin.com/in/titox",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/titox",
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/titox",
