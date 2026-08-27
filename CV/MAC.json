@@ -243,6 +243,27 @@
         }
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Master product design and AI workflows",
+        "startDate": "2026-08-01",
+        "institution": {
+          "name": "Yummy Labx",
+          "description": "A sprint built around real startup briefs, guided by mentors, powered by AI workflows",
+          "URL": "https://www.yummy-labs.com/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Claude Code",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Máster universitario de Diseño de Interacción y Experiencia de Usuario (UX)",
